@@ -1,0 +1,25 @@
+{
+  "author": "Patrissol KENFACK",
+  "name": "header-parser-fcc-api-projectl",
+  "version": "1.0.0",
+  "description": "This is my solution of Request Header Parser Microservice FFC API Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafase282/header-parser.git"
+  },
+  "keywords": [
+    "request-header",
+	"API",
+    "IP",
+    "Header",
+    "patrissol"	
+  ],
+  "license": "MIT"
+}
